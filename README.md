@@ -1,5 +1,4 @@
 # OSINTosh - OSINT Framework Tool
-===============================
 
 OSINTosh is a command-line OSINT framework for exploring various categories and gathering information. It utilizes the data provided by @lockfale's OSINT framework to help you navigate and explore resources.
 
@@ -15,7 +14,9 @@ OSINTosh is a command-line OSINT framework for exploring various categories and 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-github-username/osintosh.git
-   cd osintosh
+   ```
+   ```bash
+      cd osintosh
    ```
 2. Install the required dependencies:
 ```bash
@@ -32,8 +33,8 @@ OSINTosh lets you explore different OSINT resources by navigating through folder
 
 ## Credits:
 
-- Developed by ## Tirth Parmar
-- Special thanks to ## @lockfale ## for providing the OSINT data
+- Developed by Tirth Parmar
+- Special thanks to @lockfale for providing the OSINT data
 -Libraries used: rich, requests
 
 ## License:
